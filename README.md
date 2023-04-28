@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hassan</h1>
-<h3 align="center">A passionate about web technologies and solving real world problem</h3>
+<h3 align="center">I am passionate about web technologies and solving real world problem</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedibjitacademy&label=Profile%20views&color=0e75b6&style=flat" alt="mehedibjitacademy" /> </p>
 
