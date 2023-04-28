@@ -17,7 +17,7 @@
 
 - I’m currently learning **Java base web technologies**
 
-- How to reach me **mdmehedi.hassan@bjitacademy.com**
+- How to reach me [Md. Mehedi Hassan](mdmehedi.hassan@bjitacademy.com)
 
 - Know about my experiences [linkedin.com](https://www.linkedin.com/in/mdmehedihqssqn)
 
