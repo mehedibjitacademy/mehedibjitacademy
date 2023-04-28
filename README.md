@@ -17,15 +17,13 @@
 
 - 🌱 I’m currently learning **Java base web technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mehedibjitacademy](https://github.com/mehedibjitacademy)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mdmehedihqssqn](https://www.linkedin.com/in/mdmehedihqssqn)
-
-- 💬 Ask me about **Java, JS, MySQL**
-
 - 📫 How to reach me **mdmehedi.hassan@bjitacademy.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mdmehedihqssqn](https://www.linkedin.com/in/mdmehedihqssqn)
+- 📄 Know about my experiences [linkedin.com](https://www.linkedin.com/in/mdmehedihqssqn)
+
+- 👨‍💻 All of my projects are available at [github.com](https://github.com/mehedibjitacademy)
+
+- 📝 I regularly write articles on [linkedin.com](https://www.linkedin.com/in/mdmehedihqssqn)
 
 
 <h3 align="left">Languages and Tools</h3>
