@@ -13,17 +13,17 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedibjitacademy" alt="mehedibjitacademy" /></a> </p>
 <h3 align="left">Contemporary status</h3>
 
-- 🔭 I’m currently working at **BJIT academy**
+- I’m currently working at **BJIT academy**
 
-- 🌱 I’m currently learning **Java base web technologies**
+- I’m currently learning **Java base web technologies**
 
-- 📫 How to reach me **mdmehedi.hassan@bjitacademy.com**
+- How to reach me **mdmehedi.hassan@bjitacademy.com**
 
-- 📄 Know about my experiences [linkedin.com](https://www.linkedin.com/in/mdmehedihqssqn)
+- Know about my experiences [linkedin.com](https://www.linkedin.com/in/mdmehedihqssqn)
 
-- 👨‍💻 All of my projects are available at [github.com](https://github.com/mehedibjitacademy)
+- All of my projects are available at [github.com](https://github.com/mehedibjitacademy)
 
-- 📝 I regularly write articles on [linkedin.com](https://www.linkedin.com/in/mdmehedihqssqn)
+- I regularly write articles on [linkedin.com](https://www.linkedin.com/in/mdmehedihqssqn)
 
 
 <h3 align="left">Languages and Tools</h3>
