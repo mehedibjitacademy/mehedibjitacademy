@@ -11,7 +11,7 @@
 <p align="center">Computer Science Graduate with a passion for solving complex problems. Skilled in Java, JavaScript, Data Structures and Algorithms, and databases. Currently expanding my knowledge in Jakarta EE, React, and Spring Boot. Seeking a challenging role in a dynamic software company where I can utilize my technical skills and problem-solving abilities to drive success. Let's connect and explore opportunities together.</p>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedibjitacademy" alt="mehedibjitacademy" /></a> </p>
-
+<h3 align="left">Contemporary status</h3>
 - 🔭 I’m currently working at **BJIT academy**
 
 - 🌱 I’m currently learning **Java base web technologies**
