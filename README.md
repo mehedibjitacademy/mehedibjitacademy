@@ -12,6 +12,7 @@
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedibjitacademy" alt="mehedibjitacademy" /></a> </p>
 <h3 align="left">Contemporary status</h3>
+
 - 🔭 I’m currently working at **BJIT academy**
 
 - 🌱 I’m currently learning **Java base web technologies**
