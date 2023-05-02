@@ -24,7 +24,7 @@
 
 - I regularly write articles on [linkedin.com](https://www.linkedin.com/in/mdmehedihqssqn)
 
-# Projects
+## Projects
 This repository contains information about three projects of my projects that I have worked on:
 
 - Augmented Reality Based Learning System for Children’s with special Needs
