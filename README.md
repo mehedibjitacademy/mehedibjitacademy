@@ -25,14 +25,13 @@
 - I regularly write articles on [linkedin.com](https://www.linkedin.com/in/mdmehedihqssqn)
 
 <h3 align="left">Education</h3>
-
-- <strong>BSc. In Computer Science & Engineering</strong><br>
+- <strong>BSc. In Computer Science & Engineering,</strong> Green University of Bangladesh<br>
   Achieve <strong>CGPA 3.65 out of 4</strong> and received the Dean's Certificate multiple times. <strong>Major coursework:</strong> DataStructure,Algorithm, Object Oriented Programming, Operating System, Artificial Intelligence, Data Mining, DatabaseSystem,networking etc.
 
-- <strong>Higher Secondary School Certificate</strong><br>
+- <strong>Higher Secondary School Certificate,</strong> National Ideal College<br>
   Achieve <strong>GPA 4.67 out of 5</strong>
 
-- <strong>Secondary School Certificate</strong><br>
+- <strong>Secondary School Certificate,</strong> Kathalia Pilot Secondary Schoo<br>
   Achieve <strong>GPA 5 out of 5</strong> and I was awarded the General Merit Scholarship by the Barisal Education Board
 
 <h3 align="left">Projects</h3>
