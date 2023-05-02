@@ -25,6 +25,7 @@
 - I regularly write articles on [linkedin.com](https://www.linkedin.com/in/mdmehedihqssqn)
 
 <h3 align="left">Education</h3>
+
 - <strong>BSc. In Computer Science & Engineering,</strong> Green University of Bangladesh<br>
   Achieve <strong>CGPA 3.65 out of 4</strong> and received the Dean's Certificate multiple times. <strong>Major coursework:</strong> DataStructure,Algorithm, Object Oriented Programming, Operating System, Artificial Intelligence, Data Mining, DatabaseSystem,networking etc.
 
