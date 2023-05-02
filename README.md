@@ -27,7 +27,7 @@
 <h3 align="left">Projects</h3>
 This section contains information about three of my projects that I have worked on:
 
-- Augmented Reality Based Learning System for Children’s with special Needs
+- <strong>Augmented Reality Based Learning System for Children’s with special Needs</strong>
   This is a system that can augment Bengali Alphabets with different interactive 3D scenes to assist children with special needs in learning. The system was developed using VuforiaAREngine, C#, and Unity.
 
 - Hello Researcher
