@@ -46,7 +46,7 @@
 - <strong>Higher Secondary School Certificate,</strong> National Ideal College<br>
   Achieve <strong>GPA 4.67 out of 5</strong>
 
-- <strong>Secondary School Certificate,</strong> Kathalia Pilot Secondary Schoo<br>
+- <strong>Secondary School Certificate,</strong> Kathalia Pilot Secondary School<br>
   Achieve <strong>GPA 5 out of 5</strong> and I was awarded the General Merit Scholarship by the Barisal Education Board
 
 <h3 align="left">Languages and Tools</h3>
