@@ -17,11 +17,11 @@
 - I’m currently learning **Java base web technologies**
 
 - How to reach me at <a href="mailto:mdmehedi.hassan@bjitacademy.com">Email</a>
-- Know about my experiences [linkedin.com](https://www.linkedin.com/in/mdmehedihqssqn)
+- Know about my experiences [Linkedin](https://www.linkedin.com/in/mdmehedihqssqn)
 
-- All of my projects are available at [github.com](https://github.com/mehedibjitacademy)
+- All of my projects are available at [Github](https://github.com/mehedibjitacademy)
 
-- I regularly write articles on [linkedin.com](https://www.linkedin.com/in/mdmehedihqssqn)
+- I regularly write articles on [Linkedin](https://www.linkedin.com/in/mdmehedihqssqn)
 <h3 align="left">Professional Experience</h3>
 
 - <strong>Trainee Software Engineer J2EE at BJIT Academy</strong><br>
