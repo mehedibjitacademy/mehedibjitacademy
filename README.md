@@ -23,7 +23,12 @@
 - All of my projects are available at [github.com](https://github.com/mehedibjitacademy)
 
 - I regularly write articles on [linkedin.com](https://www.linkedin.com/in/mdmehedihqssqn)
+<h3 align="left">Projects</h3>
+This section contains information about three of my projects that I have worked on:
 
+- <strong>Trainee Software Engineer J2EE at BJIT Academy</strong><br>
+  I have acquired knowledge on various J2EE topics. These include the fundamentals of Java programming, Object-Oriented Programming (OOP) concepts, Advanced Java, Design Patterns, JSP and Servlet, JDBC, Spring/Hibernateframeworks, Front-end technologies, React JS, Unit Test & Integration Test, Git-GitHub, Redmine, and AWS. Additionally,I have gained hands-on experience working on real-world projects.
+  
 <h3 align="left">Education</h3>
 
 - <strong>BSc. In Computer Science & Engineering,</strong> Green University of Bangladesh<br>
