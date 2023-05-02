@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hassan</h1>
 <h3 align="center">Trainee Software Engineer @ BJIT Academy</h3>
 <h2 align="center">About Me</h2>
-<p align="center">Computer Science Graduate with a passion for solving complex real world problems. Skilled in Java, JavaScript, Data Structures and Algorithms, and databases. Currently expanding my knowledge in Jakarta EE, React, and Spring Boot. Seeking a challenging role in a dynamic software company where I can utilize my technical skills and problem-solving abilities to drive success. Let's connect and explore opportunities together.</p>
+<p align="center">Computer Science Graduate with a passion for solving complex real world problems. Skilled in Java, JavaScript, Data Structures and Algorithms, and databases. Currently expanding my knowledge in Jakarta EE, React, and Spring Boot. Seeking a challenging role in a dynamic software company where I can utilize my technical skills and problem-solving abilities to drive success. Let's connect and explore opportunities together.</p><br>
 
 <h3 align="left">Contemporary status</h3>
 
