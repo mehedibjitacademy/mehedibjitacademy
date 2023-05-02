@@ -25,7 +25,7 @@
 - I regularly write articles on [linkedin.com](https://www.linkedin.com/in/mdmehedihqssqn)
 
 ## Projects
-This repository contains information about three projects of my projects that I have worked on:
+This section contains information about three projects of my projects that I have worked on:
 
 - Augmented Reality Based Learning System for Children’s with special Needs
   This is a system that can augment Bengali Alphabets with different interactive 3D scenes to assist children with special needs in learning. The system was developed using VuforiaAREngine, C#, and Unity.
