@@ -29,7 +29,6 @@
   I have acquired knowledge on various J2EE topics. These include the fundamentals of Java programming, Object-Oriented Programming (OOP) concepts, Advanced Java, Design Patterns, JSP and Servlet, JDBC, Spring/Hibernateframeworks, Front-end technologies, React JS, Unit Test & Integration Test, Git-GitHub, Redmine, and AWS. Additionally,I have gained hands-on experience working on real-world projects.
 
 <h3 align="left">Projects</h3>
-This section contains information about three of my projects that I have worked on:
 
 - <strong>Augmented Reality Based Learning System for Children’s with special Needs</strong><br>
   This is a system that can augment Bengali Alphabets with different interactive 3D scenes to assist children with special needs in learning. The system was developed using VuforiaAREngine, C#, and Unity.
