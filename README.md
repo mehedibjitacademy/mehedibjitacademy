@@ -16,7 +16,7 @@
 
 - I’m currently learning **Java base web technologies**
 
-- How to reach me at <a href="mailto:mdmehedi.hassan@bjitacademy.com">My Email</a>
+- How to reach me at <a href="mailto:mdmehedi.hassan@bjitacademy.com">Email</a>
 - Know about my experiences [linkedin.com](https://www.linkedin.com/in/mdmehedihqssqn)
 
 - All of my projects are available at [github.com](https://github.com/mehedibjitacademy)
