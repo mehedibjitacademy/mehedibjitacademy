@@ -8,7 +8,7 @@
 <a href="https://www.hackerrank.com/mdmehedihassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mdmehedihassan" height="30" width="40" /></a>
 </p>
 <h2 align="center">About Me</h2>
-<p align="center">Computer Science Graduate with a passion for solving complex real world problems. Skilled in Java, JavaScript, Data Structures and Algorithms, and databases. Currently expanding my knowledge in Jakarta EE, React, and Spring Boot. Seeking a challenging role in a dynamic software company where I can utilize my technical skills and problem-solving abilities to drive success. Let's connect and explore opportunities together.</p><br>
+<p align="center">Computer Science Graduate with a passion for solving complex real world problems. Skilled in Java, JavaScript, Data Structures, Algorithms and databases. Currently expanding my knowledge in Jakarta EE, React, and Spring Boot. Seeking a challenging role in a dynamic software company where I can utilize my technical skills and problem-solving abilities to drive success. Let's connect and explore opportunities together.</p><br>
 
 <h3 align="left">⚡Contemporary status</h3>
 
