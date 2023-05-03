@@ -21,7 +21,7 @@
 
 - All of my projects are available at [Github](https://github.com/mehedibjitacademy)
 
-- I regularly write articles on [Linkedin](https://www.linkedin.com/in/mdmehedihqssqn)
+
 <h3 align="left">💻Professional Experience</h3>
 
 - <strong>Trainee Software Engineer J2EE at BJIT Academy</strong><br>
