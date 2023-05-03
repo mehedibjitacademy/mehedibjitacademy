@@ -12,11 +12,12 @@
 
 <h3 align="left">⚡Contemporary status</h3>
 
-- I’m currently working at **BJIT academy**
+- I’m currently working at **BJIT Academy**
 
-- I’m currently learning **Java base web technologies**
+- I’m currently learning **Java Base Web Technologies**
 
 - How to reach me at <a href="mailto:mdmehedi.hassan@bjitacademy.com">Email</a>
+
 - Know about my experiences [Linkedin](https://www.linkedin.com/in/mdmehedihqssqn)
 
 - All of my projects are available at [Github](https://github.com/mehedibjitacademy)
