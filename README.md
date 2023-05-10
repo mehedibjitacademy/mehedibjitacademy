@@ -3,7 +3,7 @@
 <h3 align="center">Trainee Software Engineer @ BJIT Academy</h3>
 <p align="center">
 <a href="https://leetcode.com/mdmehedihassan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mdmehedihassan/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mdmehedihqssqn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdmehedihqssqn/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/MdMiHassan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/MdMiHassan/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mdmehedihassan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mdmehedihassan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mdmehedihassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mdmehedihassan" height="30" width="40" /></a>
 </p>
@@ -34,10 +34,10 @@
   This is a system that can augment Bengali Alphabets with different interactive 3D scenes to assist children with special needs in learning. The system was developed using VuforiaAREngine, C#, and Unity.
 
 - <strong>Hello Researcher</strong><br>
-  Fully Featured Comprehensive Web-Based Tool for University This is a comprehensive web-based tool that universities can use to manage final year students' projects and theses. The tool was developed using Spring Boot, Spring MVC, and React JS.
+  Fully Featured Comprehensive Web-Based Tool for University This is a comprehensive web-based tool that universities can use to manage final year students' projects and theses.
 
 - <strong>Static Web Server</strong><br>
-  This is a static web server that can serve static web pages and files. It has implemented most commonly used features of the HTTP1.1 specification. The server was developed using Java's Server Socket and Multithreading API.
+  This is a static web server that can serve static web pages and files (implemented most commonly used features of the HTTP1.1 specification) The server was developed using Java programming language.
   
 <h3 align="left">🎓Education</h3>
 
